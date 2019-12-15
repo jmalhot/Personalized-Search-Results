@@ -1,5 +1,5 @@
 # Personalized-Search-Results
-Personalized Search Results using Spark, Mongo, LSH
+Personalized Search Results using Spark, Mongo, LSH, AWS S3
 
 - 1+ Million record are loaded into Spark dataframe from Mongodb
 - Popular items are loaded from user behavioural logs stored in S#
