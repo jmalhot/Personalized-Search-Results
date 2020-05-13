@@ -6,4 +6,4 @@ Personalized Search Results using Spark, Mongo, LSH, AWS S3
 - Popular items are used to find most similar items from Mongodb database.
 - Similarity is computed using Local Sensitive Hashing concept
 - Code is develoepd using Spark ML framework
-- Code can run on AWS EMR or GCP Dataprocs.
+- Code can run on AWS EMR Cluster or Google Cloud Platfor's Dataprocs.
