@@ -5,8 +5,6 @@ from pyspark.sql.types import *
 
 P_INPUT_SPARK_HOST_NAME="mongodb://127.0.0.1/backend_production.properties"
 
-#P_INPUT_HOST_NAME = "mongodb://3.210.155.32/backend_production.properties"
-
 P_OUTPUT_SPARK_HOST_NAME="mongodb://127.0.0.1/backend_production.properties"
 
 P_APP_NAME="similar_properties"
